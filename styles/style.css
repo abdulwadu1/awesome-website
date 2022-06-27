@@ -16,10 +16,12 @@ body {
   font-family: "Poppins", sans-serif;
   background-color: #fff;
 }
+/* global css*/
 img {
   width: 100%;
   height: auto;
 }
+
 li {
   list-style: none;
 }
